@@ -1,8 +1,8 @@
 # Sand Spike
 
-**Play:** https://muhammadalims.github.io/sand-spike/ (once deployed)
+**Play:** https://muhammadalims.github.io/sand-spike/
 
-2v2 beach volleyball in a clay 3D diorama, built with Three.js in a single HTML file. Fourth game in the street-sport family (Gully Cricket, Panna Cage, Block Hoops).
+2v2 beach volleyball in a clay 3D diorama, built with Three.js in a single HTML file. Fourth game in the street-sport family (Galli Cricket, Panna Cage, Block Hoops).
 
 ## Beaches
 - **Copacabana, Rio**: black-and-white wave mosaic promenade, kiosks, palms, kites. A rally of 8+ touches makes the crowd chant ALTINHA! and the rally winner scores a bonus point.
